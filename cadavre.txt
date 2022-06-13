@@ -1,6 +1,5 @@
 coucou
 
-le git d'Etienne la suite de la suite qui continue
-
+le git d'Etienne la suite de la suite qui continue encore
 
 git de Julien
