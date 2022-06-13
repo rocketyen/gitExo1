@@ -1,6 +1,5 @@
-coucou
+coucou Etienne et Julien
 
-le git d'Etienne la suite de la suite qui continue
+le git d'Etienne la suite de la suite qui continue encore
 
-
-git de Julien
+git de Julien // deuxième message // 3ème message
